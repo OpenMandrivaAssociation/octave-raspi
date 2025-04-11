@@ -3,7 +3,7 @@
 Summary:	GNU Octave toolkit for controlling a Raspberry Pi 
 Name:		octave-raspi
 Version:	0.0.3
-Release:	1
+Release:	2
 License:	GPLv3+
 Group:		Sciences/Mathematics
 #Url:		https://packages.octave.org/raspi/
